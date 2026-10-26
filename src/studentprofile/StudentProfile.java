@@ -10,6 +10,10 @@ public class StudentProfile { // Declares a class named StudentProfile
         System.out.println("Student ID: S88487"); // Displays the student's ID
 
         System.out.println("Programme: Bachelor of Software Engineering"); // Displays the student's programme
+        
+        System.out.println("Semester: Semester 1"); // Displays your semester
+        
+        System.out.println("Favourite Language: Java"); // Displays your favourite programming language
 
     } // Ends the main method
 
